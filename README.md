@@ -32,6 +32,10 @@ Ente the following file: registrationSystem-cs531/html/cgi-bin/confirm.py
 1. change the token variable to you gmail password app token created in you gmail account.
 2. change the email variable to your gmail email address.
 
+Enter the html folder:
+`cd html`
+
+And run:
 `python -m http.server --cgi`
 
 Complete each step on the registration.
