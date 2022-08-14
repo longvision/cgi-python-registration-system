@@ -27,6 +27,8 @@ run `docker-compose up `to get the container running with the mysql database ins
 
 # Running the application:
 
+Install python dependencies:
+
 Ente the following file: registrationSystem-cs531/html/cgi-bin/confirm.py
 
 1. change the token variable to you gmail password app token created in you gmail account.
